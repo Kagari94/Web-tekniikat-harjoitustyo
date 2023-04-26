@@ -1,0 +1,30 @@
+.important{
+    color: #f08080;
+}
+
+body{
+    background-color: gray;
+}
+
+hr{
+    
+    border: 2px solid white;
+    opacity: 100;
+}
+
+label,p,h3{
+    color: white;
+}
+
+.col{
+    margin-top: 20px;
+    border: 1px solid white;
+}
+
+#header{
+    text-align: center;
+}
+
+#accordion{
+    margin: 5%;
+}
